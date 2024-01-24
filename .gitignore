@@ -5,3 +5,8 @@
 
 # Mac OS X rubbish
 .DS_Store
+
+/bin
+/bin-int
+*.vcxproj
+*.vcxproj.filters
